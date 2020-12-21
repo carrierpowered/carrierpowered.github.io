@@ -10,5 +10,5 @@ CarrierPowered provides different tools based on _Databank_. _Databank_ is the m
 stores market values, market history, player logs and much more.
 
 The recommended client tool to update player logs is _Companion_. _Companion_ is an easy-to-setup tool that 
-retrieves player logs from the game files.
+retrieves player logs from the game files. It also uploads market values to EDDN.
 
