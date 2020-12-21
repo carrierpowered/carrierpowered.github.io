@@ -3,16 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+Say hello to CarrierPowered, the new toolbox made for Elite: Dangerous players.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+It includes different tools to ease some aspects of the game like trading or BGS.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This project was initiated and currently ran by _Cmdr Axelandre_, a member of the _EWSU_.
